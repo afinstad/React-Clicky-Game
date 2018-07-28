@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    font-size: 32px;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    text-align:  center;
+    color: white;
+    font-size: 65px;
+  }
+  
+  .scores {
+    float: right;
+    color: white;
+  }

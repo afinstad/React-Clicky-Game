@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "acadia", 
+      "image": "./components/img/acadia.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "arches",
+      "image": "./components/img/arches.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "bluderidge",
+      "image": "./components/img/blueridge.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "craterlake",
+      "image": "./components/img/craterlake.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "denali",
+      "image": "./components/img/denali.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "gatewayarch",
+      "image": "./components/img/gatewayarch.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "glacier",
+      "image": "./components/img/glacier.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "joshuatree",
+      "image": "./components/img/joshuatree.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "mountrainer",
+      "image": "./components/img/mountrainer.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "northcascades",
+      "image": "./components/img/northcascades.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "shenandoah",
+      "image": "./components/img/shenandoah.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "whitesands",
+      "image": "./components/img/whitesands.png",
+      "count": 0
+    }
+  ]
+  
+   

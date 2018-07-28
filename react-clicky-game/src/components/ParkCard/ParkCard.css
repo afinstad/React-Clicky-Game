@@ -1,0 +1,18 @@
+.ParkCard {
+    border-radius: .5px;
+    height: 300px;
+    margin: 16px;
+    width: 400px;
+    position: relative;
+  }
+   
+  .ParkCard > .img-container {
+    height: 100%;
+    overflow: hidden;
+  
+  }
+  .ParkCard > .img-container > img {
+    width: 75%;
+    padding-top: 1px; 
+  }
+  

@@ -1,0 +1,14 @@
+.body {
+    
+    background: rgb(4, 100, 4);
+    align-content: flex-start;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    justify-content: space-around;
+    overflow: auto;
+    height: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 50px;
+  
+  }
